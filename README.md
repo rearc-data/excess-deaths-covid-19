@@ -4,7 +4,7 @@
 
 # Excess Deaths Associated with COVID-19 | CDC / NCHS
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-xcevflgivca5w](https://aws.amazon.com/marketplace/pp/prodview-xcevflgivca5w). 
 
 ## Main Overview:
 This release contains estimations for excess deaths in association with the coronavirus disease 2019 (COVID-19) released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS).
