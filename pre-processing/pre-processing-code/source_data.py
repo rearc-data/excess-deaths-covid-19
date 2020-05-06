@@ -4,7 +4,7 @@ from urllib.request import urlretrieve
 
 def source_dataset(new_filename, s3_bucket, new_s3_key):
 
-    source_dataset_url = 'https://data.cdc.gov/resource/xkkf-xrst'
+    source_dataset_url = 'https://data.cdc.gov/api/views/xkkf-xrst/rows'
 
     # Download the file from `url` and save it locally under `file_name`:
     for frmt in ['.csv', '.json']:
