@@ -6,7 +6,7 @@
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-xcevflgivca5w](https://aws.amazon.com/marketplace/pp/prodview-xcevflgivca5w). 
 
-## Main Overview:
+## Main Overview
 This release contains estimations for excess deaths in association with the coronavirus disease 2019 (COVID-19) released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS).
 
 Centers for Disease Control and Prevention provides free and open access to various health related data. If you are intersted in learning more about datasets released by the CDC, please visit the [page on the CDC Data Homepage](https://data.cdc.gov).

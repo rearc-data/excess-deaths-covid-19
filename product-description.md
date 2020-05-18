@@ -2,7 +2,7 @@
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/excess-deaths-covid-19](https://github.com/rearc-data/excess-deaths-covid-19).
 
-## Main Overview:
+## Main Overview
 This release contains estimations for excess deaths in association with the coronavirus disease 2019 (COVID-19) released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS).
 
 Centers for Disease Control and Prevention provides free and open access to various health related data. If you are intersted in learning more about datasets released by the CDC, please visit the [page on the CDC Data Homepage](https://data.cdc.gov).
